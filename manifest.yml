@@ -1,2 +1,5 @@
 applications:
-- name: \sampleapp
+- name: sampleapp
+
+server:
+  port: 8987
