@@ -1,5 +1,4 @@
 applications:
 - name: sampleapp
 
-server:
-  port: 8987
+  host: concoursesample
